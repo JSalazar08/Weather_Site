@@ -30,17 +30,6 @@ body {
         text-align: center;
         padding: 0;
     }
-    .searchFunction {
-        padding: 0;
-        width:100%;
-        margin: 0%;     
-      display: flex;
-      flex-wrap: wrap;
-    color: rgb(0, 0, 0);
-    text-align: center;
-    font-size: 50px;
-    font-weight: 200;
-    }
 
     .searchBar {
         padding: 0;
@@ -62,7 +51,7 @@ body {
         color: #000000;
         width: 100%;
         margin-bottom: 15px; 
-        border-radius: 10px;
+        border-radius: auto;
         background-color: rgba(255,255,255, 0.75);
       }
 
